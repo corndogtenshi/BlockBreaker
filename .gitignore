@@ -1,1 +1,8 @@
 temp/*
+.vscode/*
+.vs/BrickBreak/v15*
+UserSettings/*
+build/*
+Assembly-CSharp
+BrickBreak.csproj
+BrickBreak.sln
