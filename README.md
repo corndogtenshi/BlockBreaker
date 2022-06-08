@@ -1,6 +1,6 @@
 # BlockBreaker
 ## About:
-Block Breaker is a basic breakout clone created in Unity 3D. It originated from a now deprecated version of Udemy's [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/) course.
+Block Breaker is a basic breakout clone created in Unity 3D. I originally created it by following along with a now deprecated version of Udemy's [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/) course.
 
 I have tweaked the physics, created my own levels, and created my own graphics to add on to the initial project. 
 
